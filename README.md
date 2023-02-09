@@ -4,7 +4,7 @@
 Step 1: Install git and create a GitHub account <br/>
 Step 2: Create a local git repository <br/>
 Step 3: Create a new branch <br/>
-Step 4: Add a new file to the repo <br/>
+Step 4: Add a new file to the branch <br/>
 Step 5: Commit the new file <br/>
 Step 6: Push the new branch <br/>
 Step 7: Create a Pull Request (PR) <br/>
