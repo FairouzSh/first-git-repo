@@ -1,5 +1,5 @@
 ## Git tutorial
-### This repo was created as a starter for ML-1 Course in Applied AI, offered by George Brown College.
+### This repo was created as a starter for ML-1 Course in Applied AISolutions Development Program, offered by George Brown College.
 #### Steps for this tutorial -
 Step 1: Install git and create a GitHub account <br/>
 Step 2: Create a local git repository <br/>
